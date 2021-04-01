@@ -1,0 +1,11 @@
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\bin\Debug\WindowsFormGame.exe.config
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\bin\Debug\WindowsFormGame.exe
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\bin\Debug\WindowsFormGame.pdb
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.csprojAssemblyReference.cache
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.Menu.resources
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.Properties.Resources.resources
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.csproj.GenerateResource.cache
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.exe
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.pdb
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.Character.resources
+C:\Users\Anti\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.Playground.resources
